@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Player One",
+        "image": "shahid-afridi.jpg",
+        "country": "India",
+        "type": "Batsman",
+        "rating": 4,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$10,000"
+    },
+    {
+        "name": "Player Two",
+        "image": "virat-kohli.avif",
+        "country": "Australia",
+        "type": "Bowler",
+        "rating": 5,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Right Arm Leg Break",
+        "price": "$12,000"
+    },
+    {
+        "name": "Player Three",
+        "image": "mahmudullah-riyad.jpg",
+        "country": "England",
+        "type": "Allrounder",
+        "rating": 3,
+        "battingStyle": "Left Hand Bat",
+        "bowlingStyle": "Right Arm Medium",
+        "price": "$15,000"
+    },
+    {
+        "name": "Player Four",
+        "image": "path/to/player4.jpg",
+        "country": "South Africa",
+        "type": "Batsman",
+        "rating": 4,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$11,000"
+    },
+    {
+        "name": "Player Five",
+        "image": "path/to/player5.jpg",
+        "country": "New Zealand",
+        "type": "Bowler",
+        "rating": 3,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Left Arm Fast",
+        "price": "$9,500"
+    },
+    {
+        "name": "Player Six",
+        "image": "path/to/player6.jpg",
+        "country": "Pakistan",
+        "type": "Allrounder",
+        "rating": 4,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "Right Arm Off Break",
+        "price": "$14,000"
+    },
+    {
+        "name": "Player Seven",
+        "image": "path/to/player7.jpg",
+        "country": "West Indies",
+        "type": "Batsman",
+        "rating": 5,
+        "battingStyle": "Left Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$16,000"
+    },
+    {
+        "name": "Player Eight",
+        "image": "path/to/player8.jpg",
+        "country": "Sri Lanka",
+        "type": "Bowler",
+        "rating": 2,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Right Arm Medium",
+        "price": "$8,000"
+    },
+    {
+        "name": "Player Nine",
+        "image": "path/to/player9.jpg",
+        "country": "Bangladesh",
+        "type": "Allrounder",
+        "rating": 3,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "Right Arm Medium",
+        "price": "$10,500"
+    },
+    {
+        "name": "Player Ten",
+        "image": "path/to/player10.jpg",
+        "country": "Afghanistan",
+        "type": "Batsman",
+        "rating": 4,
+        "battingStyle": "Left Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$12,500"
+    },
+    {
+        "name": "Player Eleven",
+        "image": "path/to/player11.jpg",
+        "country": "Ireland",
+        "type": "Bowler",
+        "rating": 3,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Right Arm Fast",
+        "price": "$9,200"
+    },
+    {
+        "name": "Player Twelve",
+        "image": "path/to/player12.jpg",
+        "country": "Scotland",
+        "type": "Allrounder",
+        "rating": 4,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "Left Arm Medium",
+        "price": "$11,500"
+    },
+    {
+        "name": "Player Thirteen",
+        "image": "path/to/player13.jpg",
+        "country": "Nepal",
+        "type": "Batsman",
+        "rating": 3,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$7,500"
+    },
+    {
+        "name": "Player Fourteen",
+        "image": "path/to/player14.jpg",
+        "country": "Zimbabwe",
+        "type": "Bowler",
+        "rating": 4,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Right Arm Off Break",
+        "price": "$10,800"
+    },
+    {
+        "name": "Player Fifteen",
+        "image": "path/to/player15.jpg",
+        "country": "UAE",
+        "type": "Allrounder",
+        "rating": 2,
+        "battingStyle": "Left Hand Bat",
+        "bowlingStyle": "Right Arm Fast",
+        "price": "$8,600"
+    },
+    {
+        "name": "Player Sixteen",
+        "image": "path/to/player16.jpg",
+        "country": "Oman",
+        "type": "Batsman",
+        "rating": 4,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$10,200"
+    },
+    {
+        "name": "Player Seventeen",
+        "image": "path/to/player17.jpg",
+        "country": "USA",
+        "type": "Bowler",
+        "rating": 3,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Right Arm Medium",
+        "price": "$9,800"
+    },
+    {
+        "name": "Player Eighteen",
+        "image": "path/to/player18.jpg",
+        "country": "Nepal",
+        "type": "Allrounder",
+        "rating": 3,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "Left Arm Medium",
+        "price": "$11,000"
+    },
+    {
+        "name": "Player Nineteen",
+        "image": "path/to/player19.jpg",
+        "country": "West Indies",
+        "type": "Batsman",
+        "rating": 5,
+        "battingStyle": "Left Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$17,000"
+    },
+    {
+        "name": "Player Twenty",
+        "image": "path/to/player20.jpg",
+        "country": "South Africa",
+        "type": "Bowler",
+        "rating": 4,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Right Arm Fast",
+        "price": "$12,800"
+    },
+    {
+        "name": "Player Twenty-One",
+        "image": "path/to/player21.jpg",
+        "country": "Australia",
+        "type": "Allrounder",
+        "rating": 3,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "Right Arm Off Break",
+        "price": "$10,400"
+    },
+    {
+        "name": "Player Twenty-Two",
+        "image": "path/to/player22.jpg",
+        "country": "England",
+        "type": "Batsman",
+        "rating": 5,
+        "battingStyle": "Left Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$18,000"
+    },
+    {
+        "name": "Player Twenty-Three",
+        "image": "path/to/player23.jpg",
+        "country": "India",
+        "type": "Bowler",
+        "rating": 4,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Right Arm Fast",
+        "price": "$11,200"
+    },
+    {
+        "name": "Player Twenty-Four",
+        "image": "path/to/player24.jpg",
+        "country": "Bangladesh",
+        "type": "Allrounder",
+        "rating": 3,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "Right Arm Medium",
+        "price": "$10,000"
+    },
+    {
+        "name": "Player Twenty-Five",
+        "image": "path/to/player25.jpg",
+        "country": "Pakistan",
+        "type": "Batsman",
+        "rating": 4,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$12,600"
+    },
+    {
+        "name": "Player Twenty-Six",
+        "image": "path/to/player26.jpg",
+        "country": "New Zealand",
+        "type": "Bowler",
+        "rating": 3,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Left Arm Fast",
+        "price": "$9,700"
+    },
+    {
+        "name": "Player Twenty-Seven",
+        "image": "path/to/player27.jpg",
+        "country": "South Africa",
+        "type": "Allrounder",
+        "rating": 4,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "Right Arm Off Break",
+        "price": "$13,500"
+    },
+    {
+        "name": "Player Twenty-Eight",
+        "image": "path/to/player28.jpg",
+        "country": "Australia",
+        "type": "Batsman",
+        "rating": 5,
+        "battingStyle": "Left Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$19,000"
+    },
+    {
+        "name": "Player Twenty-Nine",
+        "image": "path/to/player29.jpg",
+        "country": "England",
+        "type": "Bowler",
+        "rating": 3,
+        "battingStyle": "N/A",
+        "bowlingStyle": "Right Arm Medium",
+        "price": "$10,200"
+    },
+    {
+        "name": "Player Thirty",
+        "image": "path/to/player30.jpg",
+        "country": "South Africa",
+        "type": "Batsman",
+        "rating": 4,
+        "battingStyle": "Right Hand Bat",
+        "bowlingStyle": "N/A",
+        "price": "$9,000"
+    }
+]
